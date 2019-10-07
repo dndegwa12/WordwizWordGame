@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="45349975470610" >
+
+    <task
+        name="javac"
+        duration="1371" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="505" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="45349975470610" >
+        <artifact
+            location="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

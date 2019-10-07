@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0_d088e1370cd19c413839d047df45fd6199ac4757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-9.2.1_b71a93de0b70eed997263c52bf6d19743770e0fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-clearcut-9.2.1_a8e99061c1d6a24b32b654c22be7a45578dda964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.2.1_dbbbfaadcc6d024e677d1fbd0f91979be41db3df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.0_d83a019d7aad2fc6a066453cece7582e80d580bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/support-annotations-23.0.0_7b8ea13224c1630a563171ede79e9a891fbc44bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gass-9.2.1_da2e86828fcc7f61cda1a6c48787730bc55aabd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.2.1_e115eb391e34ed8ca76a7dce3dd0f93790eae499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.2.1_128b34e6bab570dfa083ed94ff92ec2f3848f816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-lite-9.2.1_863bfbdfbb3751cac9acb8e160b7c0a69b45c39b.jar" />
+    </item>
+
+</items>

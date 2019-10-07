@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WordWizActivity!</string>
+    <string name="app_name">WordWiz</string>
+    <string name="how_to_play_game">WordWiz is a word game, it uses nouns, adverbs,adjectives etc.
+               The more you advance in the game the more the conquest is enjoyable.               				
+               WordWiz has 3 levels. 
+               In each level there are words whose letters have been shuffled or rearranged, its upon you to use the provided letters to come up with a correct English word and ensure you use all the 
+               letters provided e.g Shuffled word is: laim Correct word is: mail.
+               Lets meet in the conquest and hope you have fun!
+               For any request contact deetech at deetechapps@gmail.com </string>
+    <string name="banner_ad_unit_id">ca-app-pub-5747792252766003/1092635772</string>
+    <string name="admob_interstitial_id">ca-app-pub-5747792252766003/8615902571</string>
+</resources>

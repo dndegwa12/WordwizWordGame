@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.1_651f167b17e645b484894faa44b11315013d2f5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="e824a9f6e8c689216160b6ddd3081cd2a3cdb7ad">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7168bd8f106f9983e51874c7145e41b03eec0f79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.2.1_1d799a268a6d6a9ca22d4a7855153ae0cf98b402/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.1_c4cce095e0fb55ffcd140781538ccfd07b167e84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_41c83146839e0123bd120ea2fab7ed382f413bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.2.1_2393376e6ff5acf1e6e455a64ecd39efb8e808f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_1be27c8e6df33e5a66b8d3e96e58d5edca8b18b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.1_14bea3c9ca450da311a0843ade1681858b61ad65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_c95e46686dfd0b4a0f8d7f1b7a8220eed94b0e98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.1_948fcd4b0a1718d43806de8ef77e100ea5d2f8fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.2.1_6395881c2af2dbec7a17f90254afa71d4658e8d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.2.1_fa4a5837362c1d234f6de520ded1287083727b9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="896cbfb758a8cf277cb3b9a214b2c48ca2f67160">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_058e1aa4da8f4622e3137e87a90b0fc1f640e6a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_c4ba49e7a9c23c9b79f26500bf0f039e3b4ec797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_1f10b3dcae16021f4e27919134346d9668ddce58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_df3cab2f849fa479119392f6d8ffd1a8f3dc593c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_81fa6ff8e2d7c59ef9cc4056c3000887901b56c1/classes.dex" />
+    </item>
+
+</items>

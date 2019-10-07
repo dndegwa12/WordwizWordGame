@@ -1,0 +1,1014 @@
+[
+    {
+        "outputFile": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 109,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 109,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 107,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 107,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 122,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 122,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 101,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 101,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 105,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 105,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 85,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 85,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 740,
+                    "endColumn": 107,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 107,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 117,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1019,
+                        "endColumn": 117,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 105,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 105,
+                        "endOffset": 1238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 106,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 106,
+                        "endOffset": 1345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 97,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1350,
+                        "endColumn": 97,
+                        "endOffset": 1443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 107,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1448,
+                        "endColumn": 107,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endColumn": 105,
+                    "endOffset": 1486
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1556,
+                        "endColumn": 105,
+                        "endOffset": 1657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1491,
+                    "endColumn": 108,
+                    "endOffset": 1595
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1662,
+                        "endColumn": 108,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1600,
+                    "endColumn": 123,
+                    "endOffset": 1719
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 123,
+                        "endOffset": 1890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1724,
+                    "endColumn": 99,
+                    "endOffset": 1819
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1895,
+                        "endColumn": 99,
+                        "endOffset": 1990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1824,
+                    "endColumn": 73,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 73,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 268,
+                    "endOffset": 2162
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 268,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2167,
+                    "endColumn": 129,
+                    "endOffset": 2292
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 129,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2297,
+                    "endColumn": 194,
+                    "endOffset": 2487
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 194,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2492,
+                    "endColumn": 128,
+                    "endOffset": 2616
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 923,
+                        "endColumn": 128,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2621,
+                    "endColumn": 131,
+                    "endOffset": 2748
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 131,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2753,
+                    "endColumn": 218,
+                    "endOffset": 2967
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 218,
+                        "endOffset": 1398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2972,
+                    "endColumn": 219,
+                    "endOffset": 3187
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1403,
+                        "endColumn": 219,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3192,
+                    "endColumn": 130,
+                    "endOffset": 3318
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1623,
+                        "endColumn": 130,
+                        "endOffset": 1749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3323,
+                    "endColumn": 190,
+                    "endOffset": 3509
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1754,
+                        "endColumn": 190,
+                        "endOffset": 1940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3514,
+                    "endColumn": 133,
+                    "endOffset": 3643
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1945,
+                        "endColumn": 133,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3648,
+                    "endColumn": 175,
+                    "endOffset": 3819
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 175,
+                        "endOffset": 2250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3824,
+                    "endColumn": 120,
+                    "endOffset": 3940
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2255,
+                        "endColumn": 120,
+                        "endOffset": 2371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3945,
+                    "endColumn": 133,
+                    "endOffset": 4074
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2376,
+                        "endColumn": 133,
+                        "endOffset": 2505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4079,
+                    "endColumn": 181,
+                    "endOffset": 4256
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2510,
+                        "endColumn": 181,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4261,
+                    "endColumn": 148,
+                    "endOffset": 4405
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 148,
+                        "endOffset": 2836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4410,
+                    "endColumn": 176,
+                    "endOffset": 4582
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2841,
+                        "endColumn": 176,
+                        "endOffset": 3013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4587,
+                    "endColumn": 132,
+                    "endOffset": 4715
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3018,
+                        "endColumn": 132,
+                        "endOffset": 3146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4720,
+                    "endColumn": 167,
+                    "endOffset": 4883
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3151,
+                        "endColumn": 167,
+                        "endOffset": 3314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4888,
+                    "endColumn": 128,
+                    "endOffset": 5012
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3319,
+                        "endColumn": 128,
+                        "endOffset": 3443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5017,
+                    "endColumn": 249,
+                    "endOffset": 5262
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 249,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5267,
+                    "endColumn": 259,
+                    "endOffset": 5522
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3448,
+                        "endColumn": 259,
+                        "endOffset": 3703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5527,
+                    "endColumn": 122,
+                    "endOffset": 5645
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3708,
+                        "endColumn": 122,
+                        "endOffset": 3826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5650,
+                    "endColumn": 107,
+                    "endOffset": 5753
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3831,
+                        "endColumn": 107,
+                        "endOffset": 3934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5758,
+                    "endColumn": 192,
+                    "endOffset": 5946
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3939,
+                        "endColumn": 192,
+                        "endOffset": 4127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5951,
+                    "endColumn": 126,
+                    "endOffset": 6073
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4132,
+                        "endColumn": 126,
+                        "endOffset": 4254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 6078,
+                    "endColumn": 205,
+                    "endOffset": 6279
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4259,
+                        "endColumn": 205,
+                        "endOffset": 4460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 6284,
+                    "endColumn": 132,
+                    "endOffset": 6412
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4465,
+                        "endColumn": 132,
+                        "endOffset": 4593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6417,
+                    "endColumn": 171,
+                    "endOffset": 6584
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4598,
+                        "endColumn": 171,
+                        "endOffset": 4765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6589,
+                    "endColumn": 99,
+                    "endOffset": 6684
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4770,
+                        "endColumn": 99,
+                        "endOffset": 4865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6689,
+                    "endColumn": 90,
+                    "endOffset": 6775
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4870,
+                        "endColumn": 90,
+                        "endOffset": 4956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6780,
+                    "endColumn": 116,
+                    "endOffset": 6892
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4961,
+                        "endColumn": 116,
+                        "endOffset": 5073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6897,
+                    "endColumn": 128,
+                    "endOffset": 7021
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 128,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 7026,
+                    "endColumn": 104,
+                    "endOffset": 7126
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 104,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 7131,
+                    "endColumn": 75,
+                    "endOffset": 7202
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 75,
+                        "endOffset": 659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 7207,
+                    "endColumn": 131,
+                    "endOffset": 7334
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 131,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 7339,
+                    "endColumn": 97,
+                    "endOffset": 7432
+                },
+                "from": {
+                    "file": "/Users/Kagoiya/Downloads/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/res/values-uk/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 97,
+                        "endOffset": 889
+                    }
+                }
+            }
+        ]
+    }
+]

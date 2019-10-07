@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_hdpi.png",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable-hdpi/bg_hdpi.png"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable-hdpi/wrong_bg.png",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable-hdpi/wrong_bg.png"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable-hdpi/how_bg.png",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable-hdpi/how_bg.png"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable-hdpi/end_bg.png",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable-hdpi/end_bg.png"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable-hdpi/level.png",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable-hdpi/level.png"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable-hdpi/happy2.png",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable-hdpi/happy2.png"
+    }
+]

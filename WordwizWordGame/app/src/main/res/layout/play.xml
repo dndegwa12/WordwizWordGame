@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/android:list"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content" >
+
+	<RelativeLayout
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:ads="http://schemas.android.com/apk/res-auto"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/bg_hdpi"
+	    android:orientation="vertical" >  
+	    
+	    <TextView
+	        android:id="@+id/shuffled_word"
+	        android:layout_width="140dip"
+	        android:layout_height="35dip"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginBottom="20dp"
+	        android:layout_marginTop="115dip"
+	        android:background="@drawable/border"
+	        android:clickable="false"
+	        android:cursorVisible="false"
+	        android:focusable="false"
+	        android:focusableInTouchMode="false"
+	        android:textColor="@color/menu_text_color"
+	        android:textSize="18sp"
+	        android:textStyle="bold" />
+
+	    <EditText
+	        android:id="@+id/user_word"
+	        android:layout_width="140dip"
+	        android:layout_height="35dip"
+	        android:layout_below="@+id/shuffled_word"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginBottom="20dip"
+	        android:background="@drawable/border"
+	        android:textColor="@color/menu_text_color"
+	        android:textSize="18sp"
+	        android:textStyle="bold" />
+
+	    <TextView
+	        android:id="@+id/shuffled_text"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/shuffled_word"
+	        android:layout_alignBottom="@+id/shuffled_word"
+	        android:layout_toLeftOf="@+id/shuffled_word"
+	        android:text="Shuffled Letters:"
+	        android:textColor="@color/def_blue_base"
+	        android:textSize="14sp"
+	        android:textStyle="bold" />
+
+	    <TextView
+	        android:id="@+id/user_text"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/user_word"
+	        android:layout_alignBottom="@+id/user_word"
+	        android:layout_alignLeft="@+id/shuffled_text"
+	        android:layout_marginBottom="10dip"
+	        android:text="Enter Word:"
+	        android:textColor="@color/def_blue_base"
+	        android:textSize="14sp"
+	        android:textStyle="bold" />
+
+	    <Button
+	        android:id="@+id/btn_submit"
+	        style="@style/main_menu_btnNormal"
+	        android:layout_height="40dip"
+	        android:layout_below="@+id/user_word"
+	        android:layout_centerHorizontal="true"
+	        android:background="@drawable/blue_menu_btn"
+	        android:text="Submit" />
+
+	    <Button
+	        android:id="@+id/btn_hint"
+	        android:layout_width="120dip"
+	        android:layout_height="40dip"
+	        android:layout_alignParentLeft="true"
+	        android:layout_below="@+id/btn_submit"
+	        android:layout_marginLeft="27dp"
+	        android:layout_marginTop="20dp"
+	        android:background="@drawable/blue_menu_btn"
+	        android:text="Hint" />
+
+	    <Button
+	        android:id="@+id/btn_save"
+	        android:layout_width="120dip"
+	        android:layout_height="40dip"
+	        android:layout_alignBaseline="@+id/btn_hint"
+	        android:layout_alignBottom="@+id/btn_hint"
+	        android:layout_alignParentRight="true"
+	        android:layout_marginRight="18dp"
+	        android:background="@drawable/blue_menu_btn"
+	        android:text="Save" />
+
+	    <EditText
+	        android:id="@+id/points_text"
+	        android:layout_width="180dip"
+	        android:layout_height="32dip"
+	        android:layout_below="@+id/btn_hint"
+	        android:layout_marginTop="16dp"
+	        android:layout_toRightOf="@+id/user_text"
+	        android:background="@drawable/border_points"
+	        android:clickable="false"
+	        android:cursorVisible="false"
+	        android:focusable="false"
+	        android:focusableInTouchMode="false"
+	        android:textColor="@color/menu_text_color"
+	        android:textSize="16sp"
+	        android:textStyle="bold" />
+
+		<com.google.android.gms.ads.AdView
+			android:id="@+id/adView"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerHorizontal="true"
+			android:layout_alignParentBottom="true"
+			ads:adSize="BANNER"
+			ads:adUnitId="@string/banner_ad_unit_id">
+		</com.google.android.gms.ads.AdView>
+	</RelativeLayout>
+
+</ScrollView>

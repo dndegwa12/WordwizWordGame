@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/libs/volley.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_ebd740a6f02685e45a48eb7d0d4cb316130d1b7f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="47700384d6a8a86d7d4beaa52ccba64fc5ef1256">
+        <dex dex="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7fe006e7485d2177a12f209cceef4543266f4cc8/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Kagoiya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_886974396682607d3c3928f68d5d91378c814aee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e3b747cccdb70659558b84f5c6a29c45bdea5247">
+        <dex dex="/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_28ce7b1a5d3790cda9784fd0b5ba4ee147712bd9/classes.dex" />
+    </item>
+
+</items>

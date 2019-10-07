@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/border_points.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable/border_points.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/red_dialog_btn.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable/red_dialog_btn.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/red_menu_btn.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable/red_menu_btn.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/blue_menu_btn.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable/blue_menu_btn.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/border.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/debug/drawable/dialog_border.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/drawable/dialog_border.xml"
+    }
+]

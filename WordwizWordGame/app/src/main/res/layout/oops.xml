@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/wrong_bg" >
+
+    <Button
+        android:id="@+id/oops_btn"
+        style="@style/main_menu_btnNormal"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="315dip"
+        android:layout_marginLeft="85dip"
+        android:background="@drawable/red_menu_btn"
+        android:text=" OK " />
+
+    <EditText
+        android:id="@+id/oops_text"
+        android:layout_width="180dip"
+        android:layout_height="40dip"
+        android:layout_marginLeft="70dip"
+        android:layout_marginRight="25dip"
+        android:layout_marginTop="45dip"
+        android:background="@drawable/border_points"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="Oops, Retry again!"
+        android:textColor="@color/menu_text_color"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <!--<com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>-->
+
+</LinearLayout>

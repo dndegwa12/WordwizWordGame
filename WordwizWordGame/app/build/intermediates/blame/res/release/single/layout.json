@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/play.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/play.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/howtoplay.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/howtoplay.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/end_game.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/end_game.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/mydialog.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/mydialog.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/passdialog.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/passdialog.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/level_separator.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/level_separator.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/main.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/wrong.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/wrong.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/instructions.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/instructions.xml"
+    },
+    {
+        "merged": "/home/squirrel/Desktop/apps/WordwizWordGame/app/build/intermediates/res/merged/release/layout/oops.xml",
+        "source": "/home/squirrel/Desktop/apps/WordwizWordGame/app/src/main/res/layout/oops.xml"
+    }
+]

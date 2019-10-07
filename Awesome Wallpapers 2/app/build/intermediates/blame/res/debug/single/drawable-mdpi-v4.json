@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home.png",
+        "source": "/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/src/main/res/drawable-mdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_overflow.png",
+        "source": "/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/src/main/res/drawable-mdpi/ic_action_overflow.png"
+    },
+    {
+        "merged": "/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_drawer.png",
+        "source": "/Users/Kagoiya/Desktop/Awesome Wallpapers 2/app/src/main/res/drawable-mdpi/ic_drawer.png"
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:background="#ffffff"
+     android:layout_width="240dip"
+     android:layout_height="wrap_content">  
+     <ImageView
+        android:id="@+id/image_happy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="10dip"       
+	    android:layout_centerHorizontal="true"/>
+     <Button android:id="@+id/ok_pass"   
+     android:layout_width="120dip"
+     android:layout_height="45dip"
+     android:layout_centerHorizontal="true"
+     android:layout_below="@+id/image_happy"
+     style="@style/main_menu_btnNormal"
+     android:background="@drawable/red_dialog_btn"      
+     android:text="OK" />     
+  </RelativeLayout>
